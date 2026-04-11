@@ -1,0 +1,217 @@
+Month,City,Type,Sub-Category,Amount (INR)
+Jan 2025,Bengaluru,Revenue,Ride Revenue,257856
+Jan 2025,Bengaluru,Revenue,Subscription Revenue,105735
+Jan 2025,Bengaluru,Revenue,Corporate Tie-ups,40531
+Jan 2025,Bengaluru,OpEx,Agent Payouts,85018
+Jan 2025,Bengaluru,OpEx,Maintenance & Repairs,61005
+Jan 2025,Bengaluru,OpEx,Fuel & Charging,34944
+Jan 2025,Bengaluru,Overhead,Office Rent,23482
+Jan 2025,Bengaluru,Overhead,Marketing Spend,21522
+Jan 2025,Bengaluru,Overhead,Software & Tools,13332
+Jan 2025,Bengaluru,Target,Revenue Target,441000
+Jan 2025,Bengaluru,Target,OpEx Target,171000
+Jan 2025,Bengaluru,Target,Overhead Target,55200
+Jan 2025,Mumbai,Revenue,Ride Revenue,210132
+Jan 2025,Mumbai,Revenue,Subscription Revenue,100816
+Jan 2025,Mumbai,Revenue,Corporate Tie-ups,41922
+Jan 2025,Mumbai,OpEx,Agent Payouts,79214
+Jan 2025,Mumbai,OpEx,Maintenance & Repairs,51784
+Jan 2025,Mumbai,OpEx,Fuel & Charging,33598
+Jan 2025,Mumbai,Overhead,Office Rent,19998
+Jan 2025,Mumbai,Overhead,Marketing Spend,20462
+Jan 2025,Mumbai,Overhead,Software & Tools,13141
+Jan 2025,Mumbai,Target,Revenue Target,399000
+Jan 2025,Mumbai,Target,OpEx Target,166250
+Jan 2025,Mumbai,Target,Overhead Target,50600
+Jan 2025,Hyderabad,Revenue,Ride Revenue,195592
+Jan 2025,Hyderabad,Revenue,Subscription Revenue,77641
+Jan 2025,Hyderabad,Revenue,Corporate Tie-ups,39788
+Jan 2025,Hyderabad,OpEx,Agent Payouts,72774
+Jan 2025,Hyderabad,OpEx,Maintenance & Repairs,43011
+Jan 2025,Hyderabad,OpEx,Fuel & Charging,21341
+Jan 2025,Hyderabad,Overhead,Office Rent,17846
+Jan 2025,Hyderabad,Overhead,Marketing Spend,17265
+Jan 2025,Hyderabad,Overhead,Software & Tools,8517
+Jan 2025,Hyderabad,Target,Revenue Target,325500
+Jan 2025,Hyderabad,Target,OpEx Target,133000
+Jan 2025,Hyderabad,Target,Overhead Target,41400
+Feb 2025,Bengaluru,Revenue,Ride Revenue,235062
+Feb 2025,Bengaluru,Revenue,Subscription Revenue,129916
+Feb 2025,Bengaluru,Revenue,Corporate Tie-ups,48814
+Feb 2025,Bengaluru,OpEx,Agent Payouts,95528
+Feb 2025,Bengaluru,OpEx,Maintenance & Repairs,60908
+Feb 2025,Bengaluru,OpEx,Fuel & Charging,32922
+Feb 2025,Bengaluru,Overhead,Office Rent,23871
+Feb 2025,Bengaluru,Overhead,Marketing Spend,23271
+Feb 2025,Bengaluru,Overhead,Software & Tools,14112
+Feb 2025,Bengaluru,Target,Revenue Target,441000
+Feb 2025,Bengaluru,Target,OpEx Target,171000
+Feb 2025,Bengaluru,Target,Overhead Target,55200
+Feb 2025,Mumbai,Revenue,Ride Revenue,240517
+Feb 2025,Mumbai,Revenue,Subscription Revenue,111453
+Feb 2025,Mumbai,Revenue,Corporate Tie-ups,50047
+Feb 2025,Mumbai,OpEx,Agent Payouts,88854
+Feb 2025,Mumbai,OpEx,Maintenance & Repairs,58864
+Feb 2025,Mumbai,OpEx,Fuel & Charging,25142
+Feb 2025,Mumbai,Overhead,Office Rent,18603
+Feb 2025,Mumbai,Overhead,Marketing Spend,20842
+Feb 2025,Mumbai,Overhead,Software & Tools,10339
+Feb 2025,Mumbai,Target,Revenue Target,399000
+Feb 2025,Mumbai,Target,OpEx Target,166250
+Feb 2025,Mumbai,Target,Overhead Target,50600
+Feb 2025,Hyderabad,Revenue,Ride Revenue,177717
+Feb 2025,Hyderabad,Revenue,Subscription Revenue,79692
+Feb 2025,Hyderabad,Revenue,Corporate Tie-ups,29970
+Feb 2025,Hyderabad,OpEx,Agent Payouts,71900
+Feb 2025,Hyderabad,OpEx,Maintenance & Repairs,43286
+Feb 2025,Hyderabad,OpEx,Fuel & Charging,23746
+Feb 2025,Hyderabad,Overhead,Office Rent,15154
+Feb 2025,Hyderabad,Overhead,Marketing Spend,16951
+Feb 2025,Hyderabad,Overhead,Software & Tools,12315
+Feb 2025,Hyderabad,Target,Revenue Target,325500
+Feb 2025,Hyderabad,Target,OpEx Target,133000
+Feb 2025,Hyderabad,Target,Overhead Target,41400
+Mar 2025,Bengaluru,Revenue,Ride Revenue,258217
+Mar 2025,Bengaluru,Revenue,Subscription Revenue,122908
+Mar 2025,Bengaluru,Revenue,Corporate Tie-ups,37913
+Mar 2025,Bengaluru,OpEx,Agent Payouts,94124
+Mar 2025,Bengaluru,OpEx,Maintenance & Repairs,52753
+Mar 2025,Bengaluru,OpEx,Fuel & Charging,30664
+Mar 2025,Bengaluru,Overhead,Office Rent,23950
+Mar 2025,Bengaluru,Overhead,Marketing Spend,24840
+Mar 2025,Bengaluru,Overhead,Software & Tools,14142
+Mar 2025,Bengaluru,Target,Revenue Target,441000
+Mar 2025,Bengaluru,Target,OpEx Target,171000
+Mar 2025,Bengaluru,Target,Overhead Target,55200
+Mar 2025,Mumbai,Revenue,Ride Revenue,235015
+Mar 2025,Mumbai,Revenue,Subscription Revenue,117420
+Mar 2025,Mumbai,Revenue,Corporate Tie-ups,48093
+Mar 2025,Mumbai,OpEx,Agent Payouts,82758
+Mar 2025,Mumbai,OpEx,Maintenance & Repairs,49449
+Mar 2025,Mumbai,OpEx,Fuel & Charging,28916
+Mar 2025,Mumbai,Overhead,Office Rent,18778
+Mar 2025,Mumbai,Overhead,Marketing Spend,20410
+Mar 2025,Mumbai,Overhead,Software & Tools,15086
+Mar 2025,Mumbai,Target,Revenue Target,399000
+Mar 2025,Mumbai,Target,OpEx Target,166250
+Mar 2025,Mumbai,Target,Overhead Target,50600
+Mar 2025,Hyderabad,Revenue,Ride Revenue,197667
+Mar 2025,Hyderabad,Revenue,Subscription Revenue,84329
+Mar 2025,Hyderabad,Revenue,Corporate Tie-ups,36991
+Mar 2025,Hyderabad,OpEx,Agent Payouts,68539
+Mar 2025,Hyderabad,OpEx,Maintenance & Repairs,49443
+Mar 2025,Hyderabad,OpEx,Fuel & Charging,24739
+Mar 2025,Hyderabad,Overhead,Office Rent,15354
+Mar 2025,Hyderabad,Overhead,Marketing Spend,16860
+Mar 2025,Hyderabad,Overhead,Software & Tools,10626
+Mar 2025,Hyderabad,Target,Revenue Target,325500
+Mar 2025,Hyderabad,Target,OpEx Target,133000
+Mar 2025,Hyderabad,Target,Overhead Target,41400
+Apr 2025,Bengaluru,Revenue,Ride Revenue,242035
+Apr 2025,Bengaluru,Revenue,Subscription Revenue,122187
+Apr 2025,Bengaluru,Revenue,Corporate Tie-ups,56225
+Apr 2025,Bengaluru,OpEx,Agent Payouts,88189
+Apr 2025,Bengaluru,OpEx,Maintenance & Repairs,53558
+Apr 2025,Bengaluru,OpEx,Fuel & Charging,39565
+Apr 2025,Bengaluru,Overhead,Office Rent,21646
+Apr 2025,Bengaluru,Overhead,Marketing Spend,21545
+Apr 2025,Bengaluru,Overhead,Software & Tools,11083
+Apr 2025,Bengaluru,Target,Revenue Target,441000
+Apr 2025,Bengaluru,Target,OpEx Target,171000
+Apr 2025,Bengaluru,Target,Overhead Target,55200
+Apr 2025,Mumbai,Revenue,Ride Revenue,213167
+Apr 2025,Mumbai,Revenue,Subscription Revenue,111690
+Apr 2025,Mumbai,Revenue,Corporate Tie-ups,48459
+Apr 2025,Mumbai,OpEx,Agent Payouts,86138
+Apr 2025,Mumbai,OpEx,Maintenance & Repairs,49889
+Apr 2025,Mumbai,OpEx,Fuel & Charging,29843
+Apr 2025,Mumbai,Overhead,Office Rent,21983
+Apr 2025,Mumbai,Overhead,Marketing Spend,22160
+Apr 2025,Mumbai,Overhead,Software & Tools,15241
+Apr 2025,Mumbai,Target,Revenue Target,399000
+Apr 2025,Mumbai,Target,OpEx Target,166250
+Apr 2025,Mumbai,Target,Overhead Target,50600
+Apr 2025,Hyderabad,Revenue,Ride Revenue,197184
+Apr 2025,Hyderabad,Revenue,Subscription Revenue,77749
+Apr 2025,Hyderabad,Revenue,Corporate Tie-ups,38205
+Apr 2025,Hyderabad,OpEx,Agent Payouts,72544
+Apr 2025,Hyderabad,OpEx,Maintenance & Repairs,45214
+Apr 2025,Hyderabad,OpEx,Fuel & Charging,22588
+Apr 2025,Hyderabad,Overhead,Office Rent,16707
+Apr 2025,Hyderabad,Overhead,Marketing Spend,16252
+Apr 2025,Hyderabad,Overhead,Software & Tools,10056
+Apr 2025,Hyderabad,Target,Revenue Target,325500
+Apr 2025,Hyderabad,Target,OpEx Target,133000
+Apr 2025,Hyderabad,Target,Overhead Target,41400
+May 2025,Bengaluru,Revenue,Ride Revenue,250056
+May 2025,Bengaluru,Revenue,Subscription Revenue,133042
+May 2025,Bengaluru,Revenue,Corporate Tie-ups,55671
+May 2025,Bengaluru,OpEx,Agent Payouts,85741
+May 2025,Bengaluru,OpEx,Maintenance & Repairs,57608
+May 2025,Bengaluru,OpEx,Fuel & Charging,27773
+May 2025,Bengaluru,Overhead,Office Rent,23581
+May 2025,Bengaluru,Overhead,Marketing Spend,26223
+May 2025,Bengaluru,Overhead,Software & Tools,12591
+May 2025,Bengaluru,Target,Revenue Target,441000
+May 2025,Bengaluru,Target,OpEx Target,171000
+May 2025,Bengaluru,Target,Overhead Target,55200
+May 2025,Mumbai,Revenue,Ride Revenue,233280
+May 2025,Mumbai,Revenue,Subscription Revenue,111199
+May 2025,Mumbai,Revenue,Corporate Tie-ups,33885
+May 2025,Mumbai,OpEx,Agent Payouts,92094
+May 2025,Mumbai,OpEx,Maintenance & Repairs,56551
+May 2025,Mumbai,OpEx,Fuel & Charging,35401
+May 2025,Mumbai,Overhead,Office Rent,19934
+May 2025,Mumbai,Overhead,Marketing Spend,19253
+May 2025,Mumbai,Overhead,Software & Tools,11683
+May 2025,Mumbai,Target,Revenue Target,399000
+May 2025,Mumbai,Target,OpEx Target,166250
+May 2025,Mumbai,Target,Overhead Target,50600
+May 2025,Hyderabad,Revenue,Ride Revenue,171104
+May 2025,Hyderabad,Revenue,Subscription Revenue,97661
+May 2025,Hyderabad,Revenue,Corporate Tie-ups,41144
+May 2025,Hyderabad,OpEx,Agent Payouts,74643
+May 2025,Hyderabad,OpEx,Maintenance & Repairs,42644
+May 2025,Hyderabad,OpEx,Fuel & Charging,20249
+May 2025,Hyderabad,Overhead,Office Rent,17561
+May 2025,Hyderabad,Overhead,Marketing Spend,20011
+May 2025,Hyderabad,Overhead,Software & Tools,8485
+May 2025,Hyderabad,Target,Revenue Target,325500
+May 2025,Hyderabad,Target,OpEx Target,133000
+May 2025,Hyderabad,Target,Overhead Target,41400
+Jun 2025,Bengaluru,Revenue,Ride Revenue,251412
+Jun 2025,Bengaluru,Revenue,Subscription Revenue,107035
+Jun 2025,Bengaluru,Revenue,Corporate Tie-ups,52767
+Jun 2025,Bengaluru,OpEx,Agent Payouts,94785
+Jun 2025,Bengaluru,OpEx,Maintenance & Repairs,52249
+Jun 2025,Bengaluru,OpEx,Fuel & Charging,32044
+Jun 2025,Bengaluru,Overhead,Office Rent,21839
+Jun 2025,Bengaluru,Overhead,Marketing Spend,22590
+Jun 2025,Bengaluru,Overhead,Software & Tools,16035
+Jun 2025,Bengaluru,Target,Revenue Target,441000
+Jun 2025,Bengaluru,Target,OpEx Target,171000
+Jun 2025,Bengaluru,Target,Overhead Target,55200
+Jun 2025,Mumbai,Revenue,Ride Revenue,225079
+Jun 2025,Mumbai,Revenue,Subscription Revenue,100634
+Jun 2025,Mumbai,Revenue,Corporate Tie-ups,42696
+Jun 2025,Mumbai,OpEx,Agent Payouts,91524
+Jun 2025,Mumbai,OpEx,Maintenance & Repairs,51816
+Jun 2025,Mumbai,OpEx,Fuel & Charging,28864
+Jun 2025,Mumbai,Overhead,Office Rent,21979
+Jun 2025,Mumbai,Overhead,Marketing Spend,22824
+Jun 2025,Mumbai,Overhead,Software & Tools,12310
+Jun 2025,Mumbai,Target,Revenue Target,399000
+Jun 2025,Mumbai,Target,OpEx Target,166250
+Jun 2025,Mumbai,Target,Overhead Target,50600
+Jun 2025,Hyderabad,Revenue,Ride Revenue,186545
+Jun 2025,Hyderabad,Revenue,Subscription Revenue,80126
+Jun 2025,Hyderabad,Revenue,Corporate Tie-ups,28979
+Jun 2025,Hyderabad,OpEx,Agent Payouts,67733
+Jun 2025,Hyderabad,OpEx,Maintenance & Repairs,45789
+Jun 2025,Hyderabad,OpEx,Fuel & Charging,22177
+Jun 2025,Hyderabad,Overhead,Office Rent,15193
+Jun 2025,Hyderabad,Overhead,Marketing Spend,16069
+Jun 2025,Hyderabad,Overhead,Software & Tools,10940
+Jun 2025,Hyderabad,Target,Revenue Target,325500
+Jun 2025,Hyderabad,Target,OpEx Target,133000
+Jun 2025,Hyderabad,Target,Overhead Target,41400
