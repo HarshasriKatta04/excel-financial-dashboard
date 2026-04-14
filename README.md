@@ -5,10 +5,6 @@ A financial performance dashboard built in Excel tracking revenue,
 operational costs, and profitability across 3 cities (Bengaluru, Mumbai, 
 Hyderabad) over H1 2025 for a fictional bike rental company.
 
-## Dashboard Preview
-
-
-
 ## Key Features
 - **Power Query** data pipeline from CSV for auto-refreshable data
 - **SUMIFS** formulas for dynamic P&L aggregation across cities and months
@@ -31,6 +27,3 @@ Hyderabad) over H1 2025 for a fictional bike rental company.
 ## Skills Demonstrated
 Excel | Power Query | SUMIFS | INDEX-MATCH | Pivot Tables | 
 Conditional Formatting | Financial Dashboard Design
-
-## Screenshots
-
